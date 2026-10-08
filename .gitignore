@@ -4,3 +4,8 @@ __pycache__/
 out
 website/
 docs-minimind/
+
+# 本地大文件：数据集约 2.8 GB、权重数百 MB —— 不提交
+dataset/*.jsonl
+*.pth
+checkpoints/
